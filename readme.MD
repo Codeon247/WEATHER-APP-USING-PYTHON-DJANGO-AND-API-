@@ -39,7 +39,7 @@ To run the Weather App locally on your machine, follow these steps:
 1. Clone this repository to your local machine using:
 
    ```
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Codeon247/weather-app.git
    ```
 
 2. Navigate to the project directory:
@@ -100,6 +100,6 @@ The Weather App is open-source software licensed under the [MIT License](LICENSE
 
 If you have any questions or feedback, feel free to reach out to me:
 
-- Email: your.email@example.com
-- Twitter: [@yourusername](https://twitter.com/GideonI59562)
-- GitHub: [yourusername](https://github.com/Codeon247)
+- Email: gideonizu001@gmail.com
+- Twitter: [@GideonI59562](https://twitter.com/GideonI59562)
+- GitHub: [@Codeon247](https://github.com/Codeon247)
