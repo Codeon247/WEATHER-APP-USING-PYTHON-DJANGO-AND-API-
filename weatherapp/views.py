@@ -8,8 +8,9 @@ def index(request):
     if request.method == 'POST':
         city = request.POST['city']
 
-        source = urllib.request.urlopen('http://api.openweathermap.org/data/2.5/weather?q=' +
-                                        city + '&units=metric&appid=<de0fa2d61adf6f3e474f0fb7bdf9c35c>').read()
+        source = urllib.request.urlopen('https://api.openweathermap.org/data/2.5/weather?q=city&appid=82e679891e47fbc9dc190bf4284efea0').read()
+
+                                        
         list_of_data = json.loads(source)
 
         data = {
